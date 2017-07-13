@@ -1,0 +1,9 @@
+Building Bacoin
+
+See doc/readme-qt.rst for instructions on building Bacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bacoin.
+
+See doc/build-*.txt for instructions on building bacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bacoin.
