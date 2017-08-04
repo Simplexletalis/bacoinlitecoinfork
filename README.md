@@ -42,8 +42,8 @@ What is Bacoin?
 
 Bacoin is a lite version of Bitcoin, forked from Bacoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - ~84 million total coins
- - 5 coins per block
+ - 9240000 total coins
+ - 22 coins per block
  - 2016 blocks to retarget difficulty
 
 
