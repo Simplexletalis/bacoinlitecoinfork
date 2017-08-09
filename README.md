@@ -2,6 +2,7 @@ Bacoin integration/staging tree
 ================================
 
 Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2009-2013 Litecoin Developers
 Copyright (c) 2017-2017 Bacoin Developers
 
 
@@ -9,7 +10,7 @@ Gitter:
 https://gitter.im/Bacoins/TheGrill
 
 
-Testing clients Bacoind and bacoin-qt download:
+Bacoind and bacoin-qt download:
 
 https://drive.google.com/open?id=0Byoh2-GPva0eYmVsb0d6NHpPWEk
 
@@ -38,7 +39,7 @@ sudo apt-get install libboost1.37-dev
 
 Anything below this may be innacurate and needs to be updated.
 
-========================================================================================================
+================================================
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bacoin integration/staging tree
