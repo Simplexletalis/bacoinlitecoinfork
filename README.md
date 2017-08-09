@@ -10,7 +10,10 @@ https://gitter.im/Bacoins/Lobby
 
 
 Testing clients Bacoind and bacoin-qt download:
+
 https://drive.google.com/open?id=0Byoh2-GPva0eYmVsb0d6NHpPWEk
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Application dependencies:
 
@@ -29,7 +32,7 @@ sudo apt-get install libdb4.8-dev
 sudo apt-get install libdb4.8++-dev
 
 sudo apt-get install libboost1.37-dev
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
