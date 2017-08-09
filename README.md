@@ -6,7 +6,7 @@ Copyright (c) 2017-2017 Bacoin Developers
 
 
 Gitter:
-https://gitter.im/Bacoins/Lobby
+https://gitter.im/Bacoins/TheGrill
 
 
 Testing clients Bacoind and bacoin-qt download:
