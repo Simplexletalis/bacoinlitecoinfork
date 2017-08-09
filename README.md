@@ -13,14 +13,21 @@ Testing clients Bacoind and bacoin-qt download:
 https://drive.google.com/open?id=0Byoh2-GPva0eYmVsb0d6NHpPWEk
 
 Application dependencies:
+
 sudo apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev
+
 sudo apt-get install libboost-all-dev
+
 sudo add-apt-repository ppa:bitcoin/bitcoin
+
 sudo apt-get update
+
 sudo apt-get install libminiupnpc-dev 
 
 sudo apt-get install libdb4.8-dev
+
 sudo apt-get install libdb4.8++-dev
+
 sudo apt-get install libboost1.37-dev
 
 
