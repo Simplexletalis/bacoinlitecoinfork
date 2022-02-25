@@ -1,3 +1,6 @@
+## Archiving for historical purposes, if any.
+## This repository should not be used.
+
 Bacoin integration/staging tree
 ================================
 
@@ -109,3 +112,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
     ./bacoin-qt_test
+    
